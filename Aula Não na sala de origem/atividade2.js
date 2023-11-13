@@ -10,6 +10,5 @@ let contador = 0
 do{
     console.log(contador)
     contador++
-}while(contador<10){
+}while(contador<10)
  cconsole.log("===>" = contador)
-}
